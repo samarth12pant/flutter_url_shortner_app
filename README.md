@@ -1,6 +1,6 @@
 # url_shortner
 
-A new Flutter project.
+A Flutter mobile application to shorten anu url.
 
 ## Getting Started
 
